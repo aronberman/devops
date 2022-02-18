@@ -1,3 +1,5 @@
 List Devops Tools
-- Rook
-- Jenkins
+- Rook --> Persistent Volume
+- Jenkins --> CI/CD
+- Gitlab
+- Velero
